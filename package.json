@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "An api microservice that will output the IP, OS and language of a visitor's computer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayhatron/request-header-parser-microservice.git"
+  },
+  "author": "Rayhatron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayhatron/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/Rayhatron/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
